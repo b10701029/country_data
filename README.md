@@ -1,1 +1,1 @@
-# country's suicides numner check
+# country's suicides number check
